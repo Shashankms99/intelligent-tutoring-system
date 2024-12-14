@@ -1,0 +1,27 @@
+.show-sessions {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .show-sessions h2 {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .show-sessions ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .show-sessions li {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .show-sessions p {
+    margin: 5px 0;
+  }
+  

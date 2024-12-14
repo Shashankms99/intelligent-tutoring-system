@@ -1,0 +1,33 @@
+
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .register-form .form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .register-form .form-row input,
+  .register-form .form-row select,
+  .register-form .form-row button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .register-form .form-row button {
+    background-color: #6b0f8a;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .register-form .form-row button:hover {
+    background-color: #520e6d;
+  }
+  
